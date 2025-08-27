@@ -1,5 +1,5 @@
 ## Hi, I'm Akroz
-<img src="https://i.imgur.com/t4O6FNi.png" alt="Header" width="800" height="340" style="object-fit: cover; border-radius: 10px;">
+<img src="https://i.imgur.com/t4O6FNi.png" alt="Header" width="800" height="400" style="object-fit: cover; border-radius: 10px;">
 
 <b>Computer Science Engineer from Chile. I design and build maintainable, robust, secure, and scalable services. I believe in turning complex problems into simple, elegant solutions that stand the test of time.</b>
 
@@ -29,22 +29,5 @@
 
 **Coming Soon** — Currently working some exciting projects that showcase scalable architecture and clean code principles.
 
-<!-- 
-<h2 align="center">My stats</h2>
+![Profile Views](https://komarev.com/ghpvc/?username=Akroz&color=blue)
 
-<p align="center">
-  <a href="https://github.com/Akroz">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Akroz&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akroz&langs_count=10&layout=compact&theme=midnight-purple&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=Akroz&hide_total_contributions=true&exclude_days=Sun%2CSat&theme=dark&background=000000&ring=8a2be2&fire=ff79c6&currStreakNum=c9a0ff&currStreakLabel=ff79c6&sideNums=c9a0ff&sideLabels=ff79c6&dates=7f7f7f&hide_border=true&border_radius=7&card_width=467" />
-</p>
-
----
-
-<p align="center">
-  <i>"Simple solutions to complex problems, built to scale and built to last."</i>
-</p> -->
