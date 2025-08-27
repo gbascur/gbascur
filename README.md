@@ -1,5 +1,5 @@
 ## Hi, I'm Akroz
-![Header](https://i.imgur.com/t4O6FNi.png)
+<img src="https://i.imgur.com/t4O6FNi.png" alt="Header" width="800" height="340" style="object-fit: cover; border-radius: 10px;">
 
 <b>Computer Science Engineer from Chile. I design and build maintainable, robust, secure, and scalable services. I believe in turning complex problems into simple, elegant solutions that stand the test of time.</b>
 
