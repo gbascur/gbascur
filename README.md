@@ -30,8 +30,3 @@
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Akroz&color=blue)
-
-
-<p align="center">
-  <i>"Simple solutions to complex problems, built to scale and built to last."</i>
-</p> -->
