@@ -1,6 +1,5 @@
 ## Hi, I'm Akroz
-<img src="https://i.imgur.com/t4O6FNi.png" alt="Header" width="800" height="400" style="object-fit: cover; border-radius: 10px;">
-
+<img src="https://i.pinimg.com/originals/cb/93/c2/cb93c2b7e9a35a66ca269e01ecbb3b59.gif" alt="Header" width="800" height="300" style="object-fit: cover; border-radius: 10px;">
 <b>Computer Science Engineer from Chile. I design and build maintainable, robust, secure, and scalable services. I believe in turning complex problems into simple, elegant solutions that stand the test of time.</b>
 
 <h3>Contact</h3>
@@ -29,5 +28,10 @@
 
 **Coming Soon** — Currently working some exciting projects that showcase scalable architecture and clean code principles.
 
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Akroz&color=blue)
 
+
+<p align="center">
+  <i>"Simple solutions to complex problems, built to scale and built to last."</i>
+</p> -->
