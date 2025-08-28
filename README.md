@@ -4,7 +4,7 @@
 
 <h3>Contact</h3>
 
-[![Website](https://img.shields.io/badge/Website-akroz.dev-blue?style=for-the-badge)](https://porfolio-gaspar-bascur.netlify.app/)
+[![Website](https://img.shields.io/badge/Website-Gaspar.Porfolio-blue?style=for-the-badge)](https://porfolio-gaspar-bascur.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gaspar_Bascur-blue?style=for-the-badge)](https://www.linkedin.com/in/gaspar-bascur-575642195/)
 
 <h3>Top technologies</h3>
